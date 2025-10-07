@@ -1,8 +1,8 @@
 
-Welcome to my page! I'm Phillip Schneider, Head of Natural Language Processing at the startup ALMA PHIL, where we're transforming personal healthcare with AI-powered voice assistants. I'm also in the final stage of my doctorate in computer science at the Technical University of Munich, focusing on dialogue systems and exploratory information retrieval. I've been fortunate to develop my expertise in AI through international roles, including a guest research position at the AI Research Center at AIST Tokyo and internships at leading tech companies like IBM and Amazon.
+Welcome to my page! I'm Phillip Schneider, Head of Natural Language Processing at the startup ALMA PHIL, where we're transforming personal healthcare with AI-powered voice assistants. I hold a PhD in Computer Science from the Technical University of Munich, where I focused on dialogue systems and exploratory information retrieval, and have deepened my AI expertise through international research at AIST Tokyo and industry experience at IBM and Amazon.
 
 #### Education
-- Ph.D. Computer Science, 2020—2024, Technical University of Munich
+- Ph.D. Computer Science, 2020—2025, Technical University of Munich
 - M.Sc. Information Systems, 2017-2020, Goethe University Frankfurt
 - M.Sc. Computer Science Exchange Semester, 2018, University of Helsinki
 - B.Sc. Management and Economics, 2014-2017, University of Mainz
