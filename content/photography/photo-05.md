@@ -6,7 +6,7 @@ hideMeta: true
 description: ""
 cover:
     image: "photo (5).jpg"
-    alt: "Photo 05"
+    alt: "Vernazza - Italy"
     hiddenInList: true
     hiddenInSingle: false
 ---
