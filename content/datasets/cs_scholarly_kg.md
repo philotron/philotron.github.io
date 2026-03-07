@@ -1,6 +1,6 @@
 ---
 title: "Conversational Exploratory Search of Scholarly Publications Using Knowledge Graphs"
-date: 2024-01-01
+date: 2024-10-01
 description: "This repository contains the code, models, and data resources for building conversational search interfaces over scholarly publications presented at ICNLSP 2024."
 summary: "This repository contains the code, models, and data resources for building conversational search interfaces over scholarly publications presented at ICNLSP 2024."
 editPost:

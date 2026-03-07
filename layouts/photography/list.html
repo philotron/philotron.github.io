@@ -1,0 +1,30 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+</header>
+
+{{- if .Content }}
+<div class="post-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
+
+<section class="photography-gallery" aria-label="Photography gallery">
+  {{- range .RegularPages.ByWeight }}
+  {{- $image := .Params.cover.image | relURL }}
+  <a class="photography-card" href="{{ .RelPermalink }}" aria-label="Open {{ .Title }}">
+    <img src="{{ $image }}" alt="{{ .Params.cover.alt | default .Title }}" loading="lazy">
+    <span class="photography-card__caption">
+      <span class="photography-card__title">{{ .Title }}</span>
+      {{- with .Description }}
+      <span class="photography-card__description">{{ . }}</span>
+      {{- end }}
+    </span>
+  </a>
+  {{- end }}
+</section>
+
+{{- end }}

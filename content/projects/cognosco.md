@@ -5,7 +5,7 @@ weight: 3
 description: "COGNOSCO developed conversational search systems over scholarly knowledge graphs to support exploratory navigation through scientific literature."
 summary: "COGNOSCO developed conversational search systems over scholarly knowledge graphs to support exploratory navigation through scientific literature."
 cover:
-    image: "photo.jpg"
+    image: "cognosco.jpg"
     alt: "COGNOSCO project"
     hiddenInSingle: false
 editPost:
