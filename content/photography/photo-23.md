@@ -5,8 +5,8 @@ weight: 23
 hideMeta: true
 description: ""
 cover:
-    image: "Senjōgahara - Japan"
-    alt: "Photo 23"
+    image: "photo (23).jpg"
+    alt: "Senjōgahara - Japan"
     hiddenInList: true
     hiddenInSingle: false
 ---

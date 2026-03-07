@@ -5,7 +5,7 @@ weight: 5
 hideMeta: true
 description: ""
 cover:
-    image: "Vernazza - Italy"
+    image: "photo (5).jpg"
     alt: "Photo 05"
     hiddenInList: true
     hiddenInSingle: false

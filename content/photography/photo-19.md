@@ -5,8 +5,8 @@ weight: 19
 hideMeta: true
 description: ""
 cover:
-    image: "Quần đảo Nam Du - Vietnam"
-    alt: "Photo 19"
+    image: "photo (19).jpg"
+    alt: "Quần đảo Nam Du - Vietnam"
     hiddenInList: true
     hiddenInSingle: false
 ---

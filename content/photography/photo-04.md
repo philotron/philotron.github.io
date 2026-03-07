@@ -5,8 +5,8 @@ weight: 4
 hideMeta: true
 description: ""
 cover:
-    image: "Hintersee - Germany"
-    alt: "Photo 04"
+    image: "photo (4).jpg"
+    alt: "Hintersee - Germany"
     hiddenInList: true
     hiddenInSingle: false
 ---

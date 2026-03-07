@@ -5,8 +5,8 @@ weight: 21
 hideMeta: true
 description: ""
 cover:
-    image: "Bagnoregio - Italy"
-    alt: "Photo 21"
+    image: "photo (21).jpg"
+    alt: "Bagnoregio - Italy"
     hiddenInList: true
     hiddenInSingle: false
 ---

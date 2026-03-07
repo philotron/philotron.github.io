@@ -5,8 +5,8 @@ weight: 20
 hideMeta: true
 description: ""
 cover:
-    image: "Firenze - Italy"
-    alt: "Photo 20"
+    image: "photo (20).jpg"
+    alt: "Firenze - Italy"
     hiddenInList: true
     hiddenInSingle: false
 ---

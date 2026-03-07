@@ -5,8 +5,8 @@ weight: 9
 hideMeta: true
 description: ""
 cover:
-    image: "San Juan del Sur - Nicaragua"
-    alt: "Photo 09"
+    image: "photo (9).jpg"
+    alt: "San Juan del Sur - Nicaragua"
     hiddenInList: true
     hiddenInSingle: false
 ---

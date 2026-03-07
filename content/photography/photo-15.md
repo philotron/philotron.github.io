@@ -5,8 +5,8 @@ weight: 15
 hideMeta: true
 description: ""
 cover:
-    image: "Königsee - Germany"
-    alt: "Photo 15"
+    image: "photo (15).jpg"
+    alt: "Königsee - Germany"
     hiddenInList: true
     hiddenInSingle: false
 ---

@@ -5,8 +5,8 @@ weight: 11
 hideMeta: true
 description: ""
 cover:
-    image: "Nikkō - Japan"
-    alt: "Photo 11"
+    image: "photo (11).jpg"
+    alt: "Nikkō - Japan"
     hiddenInList: true
     hiddenInSingle: false
 ---

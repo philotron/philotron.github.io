@@ -5,8 +5,8 @@ weight: 3
 hideMeta: true
 description: ""
 cover:
-    image: "Kegon no Taki - Japan"
-    alt: "Photo 03"
+    image: "photo (3).jpg"
+    alt: "Kegon no Taki - Japan"
     hiddenInList: true
     hiddenInSingle: false
 ---

@@ -5,7 +5,7 @@ weight: 7
 hideMeta: true
 description: ""
 cover:
-    image: "Volcán Masaya - Nicaragua"
+    image: "photo (7).jpg"
     alt: "Photo 07"
     hiddenInList: true
     hiddenInSingle: false

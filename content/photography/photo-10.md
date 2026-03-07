@@ -5,8 +5,8 @@ weight: 10
 hideMeta: true
 description: ""
 cover:
-    image: "Châu Đốc - Vietnam"
-    alt: "Photo 10"
+    image: "photo (10).jpg"
+    alt: "Châu Đốc - Vietnam"
     hiddenInList: true
     hiddenInSingle: false
 ---

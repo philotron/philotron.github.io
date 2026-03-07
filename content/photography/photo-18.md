@@ -5,8 +5,8 @@ weight: 18
 hideMeta: true
 description: ""
 cover:
-    image: "Mỹ Đức - Vietnam"
-    alt: "Photo 18"
+    image: "photo (18).jpg"
+    alt: "Mỹ Đức - Vietnam"
     hiddenInList: true
     hiddenInSingle: false
 ---

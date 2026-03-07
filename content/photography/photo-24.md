@@ -5,8 +5,8 @@ weight: 24
 hideMeta: true
 description: ""
 cover:
-    image: "Wallberg - Germany"
-    alt: "Photo 24"
+    image: "photo (24).jpg"
+    alt: "Wallberg - Germany"
     hiddenInList: true
     hiddenInSingle: false
 ---

@@ -5,8 +5,8 @@ weight: 13
 hideMeta: true
 description: ""
 cover:
-    image: "Núi Sam - Vietnam"
-    alt: "Photo 13"
+    image: "photo (13).jpg"
+    alt: "Núi Sam - Vietnam"
     hiddenInList: true
     hiddenInSingle: false
 ---

@@ -5,8 +5,8 @@ weight: 25
 hideMeta: true
 description: ""
 cover:
-    image: "Mitake-san - Japan"
-    alt: "Photo 25"
+    image: "photo (25).jpg"
+    alt: "Mitake-san - Japan"
     hiddenInList: true
     hiddenInSingle: false
 ---

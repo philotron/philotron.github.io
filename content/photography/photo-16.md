@@ -5,8 +5,8 @@ weight: 16
 hideMeta: true
 description: ""
 cover:
-    image: "Éméi Shān - China"
-    alt: "Photo 16"
+    image: "photo (16).jpg"
+    alt: "Éméi Shān - China"
     hiddenInList: true
     hiddenInSingle: false
 ---

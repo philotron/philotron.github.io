@@ -5,8 +5,8 @@ weight: 17
 hideMeta: true
 description: ""
 cover:
-    image: "Schloss Neuschwanstein - Germany"
-    alt: "Photo 17"
+    image: "photo (17).jpg"
+    alt: "Schloss Neuschwanstein - Germany"
     hiddenInList: true
     hiddenInSingle: false
 ---
