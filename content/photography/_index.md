@@ -1,6 +1,6 @@
 ---
 title: "Photography"
-description: "A selection of panoramic and vertical photographs arranged as a masonry-style gallery."
+description: "Amateur photography, mostly nature motives, arranged as a masonry-style gallery."
 ---
 
-A curated gallery of travel photography.
+An amateur photography gallery focused mostly on nature motives, arranged in a masonry layout that works across both panoramic and vertical shots.
