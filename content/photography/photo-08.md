@@ -1,11 +1,11 @@
 ---
-title: "Photo 08"
+title: "Ōme - Japan"
 date: 2026-03-07
 weight: 8
 hideMeta: true
 description: ""
 cover:
-    image: "photo (8).JPG"
+    image: "Ōme - Japan"
     alt: "Photo 08"
     hiddenInList: true
     hiddenInSingle: false

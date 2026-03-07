@@ -14,8 +14,15 @@
 
 <section class="photography-gallery" aria-label="Photography gallery">
   {{- range .RegularPages.ByWeight }}
-  {{- $image := .Params.cover.image | relURL }}
-  <a class="photography-card" href="{{ .RelPermalink }}" aria-label="Open {{ .Title }}">
+  {{- $imagePath := .Params.cover.image }}
+  {{- $image := $imagePath | relURL }}
+  {{- $cardClass := "photography-card photography-card--portrait" }}
+  {{- with imageConfig (printf "static/%s" $imagePath) }}
+    {{- if ge .Width .Height }}
+      {{- $cardClass = "photography-card photography-card--landscape" }}
+    {{- end }}
+  {{- end }}
+  <a class="{{ $cardClass }}" href="{{ .RelPermalink }}" aria-label="Open {{ .Title }}">
     <img src="{{ $image }}" alt="{{ .Params.cover.alt | default .Title }}" loading="lazy">
     <span class="photography-card__caption">
       <span class="photography-card__title">{{ .Title }}</span>
