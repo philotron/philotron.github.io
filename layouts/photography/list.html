@@ -15,7 +15,7 @@
 {{- $landscapeWeights := slice 1 5 6 7 9 12 13 14 16 20 21 22 24 25 }}
 
 <section class="photography-gallery-group" aria-labelledby="photography-landscape-heading">
-  <h2 id="photography-landscape-heading" class="photography-gallery-group__title">Panoramic Photos</h2>
+  <h2 id="photography-landscape-heading" class="photography-gallery-group__title">Panoramic photograph (2:1)</h2>
   <div class="photography-gallery photography-gallery--landscape" aria-label="Panoramic photography gallery">
   {{- range .RegularPages.ByWeight }}
   {{- if in $landscapeWeights .Weight }}
@@ -36,7 +36,7 @@
 </section>
 
 <section class="photography-gallery-group" aria-labelledby="photography-portrait-heading">
-  <h2 id="photography-portrait-heading" class="photography-gallery-group__title">Portrait Photos</h2>
+  <h2 id="photography-portrait-heading" class="photography-gallery-group__title">Vertical panoramic photograph (1:2)</h2>
   <div class="photography-gallery photography-gallery--portrait" aria-label="Portrait photography gallery">
   {{- range .RegularPages.ByWeight }}
   {{- if not (in $landscapeWeights .Weight) }}
