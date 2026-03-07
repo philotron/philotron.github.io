@@ -13,14 +13,13 @@
 {{- end }}
 
 <section class="photography-gallery" aria-label="Photography gallery">
+  {{- $landscapeWeights := slice 1 5 6 7 9 12 13 14 16 20 21 22 24 25 }}
   {{- range .RegularPages.ByWeight }}
   {{- $imagePath := .Params.cover.image }}
   {{- $image := $imagePath | relURL }}
   {{- $cardClass := "photography-card photography-card--portrait" }}
-  {{- with imageConfig (printf "static/%s" $imagePath) }}
-    {{- if ge .Width .Height }}
-      {{- $cardClass = "photography-card photography-card--landscape" }}
-    {{- end }}
+  {{- if in $landscapeWeights .Weight }}
+    {{- $cardClass = "photography-card photography-card--landscape" }}
   {{- end }}
   <a class="{{ $cardClass }}" href="{{ .RelPermalink }}" aria-label="Open {{ .Title }}">
     <img src="{{ $image }}" alt="{{ .Params.cover.alt | default .Title }}" loading="lazy">
