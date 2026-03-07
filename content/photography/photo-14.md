@@ -5,7 +5,7 @@ weight: 14
 hideMeta: true
 description: ""
 cover:
-    image: "photo (14).jpg"
+    image: "photo (14).JPG"
     alt: "Monteverde - Costa Rica"
     hiddenInList: true
     hiddenInSingle: false
