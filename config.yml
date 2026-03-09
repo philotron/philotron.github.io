@@ -1,4 +1,4 @@
-baseURL: "https://philotron.github.io/" 
+baseURL: "https://philotron.github.io" 
 title: Phillip Schneider
 theme: PaperMod
 
@@ -26,8 +26,15 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Phillip Schneider's personal website."
+    description: "Personal website of Phillip Schneider featuring research, projects, datasets, and work in natural language processing, dialogue systems, and knowledge graphs."
     author: Phillip Schneider
+    schema:
+      publisherType: Person
+      sameAs:
+        - https://www.linkedin.com/in/01-phillip-schneider/
+        - https://scholar.google.com/citations?user=8pJ9OFQAAAAJ&hl
+        - https://orcid.org/0000-0001-9492-2927
+        - https://github.com/philotron
     analytics:
         google:
             SiteVerificationTag: "aPUYsQFSuqzh0sdbfEuGrI8Ds8Lp3zgE-Ik7I_l2pM8"
@@ -59,7 +66,7 @@ params:
           imageUrl: "profile.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Phillip
+          imageTitle: Phillip Schneider
           buttons:
             - name: Resume
               url: resume/
@@ -83,6 +90,12 @@ params:
           url: https://github.com/philotron
 
     assets:
+        favicon: /favicon.ico
+        favicon16x16: /favicon-16x16.png
+        favicon32x32: /favicon-32x32.png
+        apple_touch_icon: /apple-touch-icon.png
+        theme_color: "#2e2e33"
+        msapplication_TileColor: "#2e2e33"
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
