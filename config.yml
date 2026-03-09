@@ -28,6 +28,9 @@ menu:
 params:
     description: "This website hosts Phillip Schneider's personal website."
     author: Phillip Schneider
+    analytics:
+        google:
+            SiteVerificationTag: "aPUYsQFSuqzh0sdbfEuGrI8Ds8Lp3zgE-Ik7I_l2pM8"
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
