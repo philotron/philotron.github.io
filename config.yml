@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://philotron.github.io" 
+title: Phillip Schneider
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -7,30 +7,37 @@ enableRobotsTXT: true
 pagination:
   pagerSize: 20
 
-taxonomies:
-    tag: tags
-
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Resume
+          url: resume/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Research
+          url: research/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: Projects
+          url: projects/
+          weight: 4
+        - name: Datasets
+          url: datasets/
+          weight: 5
+        - name: Photography
+          url: photography/
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Personal website of Phillip Schneider featuring research, projects, datasets, and work in natural language processing, dialogue systems, and knowledge graphs."
+    author: Phillip Schneider
+    schema:
+      publisherType: Person
+      sameAs:
+        - https://www.linkedin.com/in/01-phillip-schneider/
+        - https://scholar.google.com/citations?user=8pJ9OFQAAAAJ&hl
+        - https://orcid.org/0000-0001-9492-2927
+        - https://github.com/philotron
+    analytics:
+        google:
+            SiteVerificationTag: "aPUYsQFSuqzh0sdbfEuGrI8Ds8Lp3zgE-Ik7I_l2pM8"
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,7 +51,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["resume","research","projects", "datasets", "photography"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,58 +61,47 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Phillip Schneider
+          subtitle: "Welcome! I am Head of NLP at ALMA PHIL, a startup building AI-powered voice assistants to transform personal healthcare. I hold a PhD in Computer Science from TU Munich, where I specialized in dialogue systems, knowledge graphs, and exploratory information retrieval. My work bridges academia and industry, including research at AIST in Tokyo and roles at IBM in Belgium and Amazon in Luxembourg/London."
+          imageUrl: "profile.jpg"
           imageWidth: 160
           imageHeight: 160
+          imageTitle: Phillip Schneider
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Resume
+              url: resume/
+            - name: Research
+              url: research/
+            - name: Projects
+              url: projects/
+            - name: Datasets
+              url: datasets/
+            - name: Photography
+              url: photography/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/01-phillip-schneider/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=8pJ9OFQAAAAJ&hl
+        - name: ORCID
+          url: https://orcid.org/0000-0001-9492-2927
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/philotron
 
     assets:
+        favicon: /favicon.ico
+        favicon16x16: /favicon-16x16.png
+        favicon32x32: /favicon-32x32.png
+        apple_touch_icon: /apple-touch-icon.png
+        theme_color: "#2e2e33"
+        msapplication_TileColor: "#2e2e33"
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Phillip Schneider"
       icon: favicon.ico
       iconHeight: 18
 
