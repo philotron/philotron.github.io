@@ -5,7 +5,7 @@ weight: 8
 hideMeta: true
 description: ""
 cover:
-    image: "photo (8).JPG"
+    image: "photo (8).jpg"
     alt: "Ōme - Japan"
     hiddenInList: true
     hiddenInSingle: false
