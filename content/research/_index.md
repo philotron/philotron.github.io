@@ -11,6 +11,7 @@ title: "Research"
 - BR AI Meets Journalism Workshop at BR Munich (2024) 
 - Knowledge Graph Lab at King's College London (2024) 
 - Google DeepMind & AI Grid Meetup at Google Berlin (2024)
+- Health AI Expert Workshop of M1 Munich Medicine Alliance (2026)
 
 ## Publications
 - <strong>Schneider, P.</strong>, Schopf, T., Vladika, J., Galkin, M., Simperl, E., & Matthes, F. (2022). A Decade of Knowledge Graphs in Natural Language Processing: A Survey. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP).
@@ -30,3 +31,5 @@ title: "Research"
 - Jokinen, K., <strong>Schneider, P.</strong>, & Mori, T. (2024). Towards Harnessing Large Language Models for Comprehension of Conversational Grounding. In Proceedings of the 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS).
 - Vladika, J., <strong>Schneider, P.</strong>, & Matthes, F. (2024). MedREQAL: Examining Medical Knowledge Recall of Large Language Models via Question Answering. In Findings of the Association for Computational Linguistics (ACL).
 - Kirmayr, J., Stappen, L., <strong>Schneider, P.</strong>, André, E., & Matthes, F. (2025). CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding. In Proceedings of the 31st International Conference on Computational Linguistics: Industry Track (COLING).
+- Machner, N., <strong>Schneider, P.</strong>, & Matthes, F. (2026). Enhancing Conversational Access to Patient Health Data Through LLM-Powered Chat Interfaces. In Advances in Natural Language Processing and Information Retrieval (NLPIR).
+- <strong>Schneider, P.</strong>, Mercier, A., Oehms, J., Jokinen, K., & Matthes, F. (2026). Not All Fallbacks Are Failures: Understanding and Recovering from Fallbacks in Mobile Voice Assistants. In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track (EMNLP).
